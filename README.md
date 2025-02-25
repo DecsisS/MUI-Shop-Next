@@ -1,7 +1,5 @@
 ## Shop App
 
----
-
 You need to buy something? Visit our shop!
 
 ## Powered by Next.js
