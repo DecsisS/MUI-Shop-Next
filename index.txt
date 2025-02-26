@@ -1,0 +1,18 @@
+3:"$Sreact.fragment"
+4:I[7925,["561","static/chunks/561-85291d60e5e35a9c.js","942","static/chunks/942-31cee8bd57b60375.js","240","static/chunks/240-edfa022c26e78276.js","177","static/chunks/app/layout-76065304f935b956.js"],"default"]
+5:I[5244,[],""]
+6:I[3866,[],""]
+8:I[8998,["561","static/chunks/561-85291d60e5e35a9c.js","974","static/chunks/app/page-8d41265d839c2a56.js"],"default"]
+9:I[9561,["561","static/chunks/561-85291d60e5e35a9c.js","974","static/chunks/app/page-8d41265d839c2a56.js"],"default"]
+a:I[6338,["561","static/chunks/561-85291d60e5e35a9c.js","974","static/chunks/app/page-8d41265d839c2a56.js"],"default"]
+b:I[6213,[],"OutletBoundary"]
+d:I[6213,[],"MetadataBoundary"]
+f:I[6213,[],"ViewportBoundary"]
+11:I[4835,[],""]
+1:HL["/MUI-Shop-Next/_next/static/media/4473ecc91f70f139-s.p.woff","font",{"crossOrigin":"","type":"font/woff"}]
+2:HL["/MUI-Shop-Next/_next/static/css/ee29111736fdafd5.css","style"]
+0:{"P":null,"b":"hrIjyHAexpOa3V7voxgu8","p":"/MUI-Shop-Next","c":["",""],"i":false,"f":[[["",{"children":["__PAGE__",{}]},"$undefined","$undefined",true],["",["$","$3","c",{"children":[[["$","link","0",{"rel":"stylesheet","href":"/MUI-Shop-Next/_next/static/css/ee29111736fdafd5.css","precedence":"next","crossOrigin":"$undefined","nonce":"$undefined"}]],["$","html",null,{"lang":"en","children":["$","body",null,{"className":"__variable_ca789e antialiased","children":["$","$L4",null,{"children":["$","$L5",null,{"parallelRouterKey":"children","segmentPath":["children"],"error":"$undefined","errorStyles":"$undefined","errorScripts":"$undefined","template":["$","$L6",null,{}],"templateStyles":"$undefined","templateScripts":"$undefined","notFound":"$L7","notFoundStyles":[]}]}]}]}]]}],{"children":["__PAGE__",["$","$3","c",{"children":[["$","$L8",null,{"sx":{"display":"flex","flexDirection":"column","alignItems":"center","justifyContent":"center","gap":"2rem","padding":"3rem"},"children":[["$","$L9",null,{"variant":"h3","sx":{"textAlign":"center"},"children":"Hello! We are The Material UI Shop, really excited to see you in our shop. Go to shopping!"}],["$","$La",null,{"color":"primary","sx":{"width":"200px","height":"200px"}}]]}],null,["$","$Lb",null,{"children":"$Lc"}]]}],{},null]},null],["$","$3","h",{"children":[null,["$","$3","iuEGz9kLmqOQ5godqtrZ0",{"children":[["$","$Ld",null,{"children":"$Le"}],["$","$Lf",null,{"children":"$L10"}],["$","meta",null,{"name":"next-size-adjust"}]]}]]}]]],"m":"$undefined","G":["$11","$undefined"],"s":false,"S":true}
+7:["$","$L8",null,{"sx":{"display":"flex","flexDirection":"column","alignItems":"center","marginTop":"8rem"},"children":[["$","$L9",null,{"variant":"caption","children":"Oops!"}],["$","$L9",null,{"variant":"h4","component":"div","children":"404 - Page not found"}]]}]
+10:[["$","meta","0",{"name":"viewport","content":"width=device-width, initial-scale=1"}]]
+e:[["$","meta","0",{"charSet":"utf-8"}],["$","title","1",{"children":"MUI Shop"}],["$","meta","2",{"name":"description","content":"This is a NextApp"}],["$","link","3",{"rel":"icon","href":"/MUI-Shop-Next/favicon.ico","type":"image/x-icon","sizes":"512x512"}]]
+c:null
